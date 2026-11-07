@@ -2,10 +2,7 @@
 SETA restored patch
 
 
-SETA restored patch - ALPHA (version 1, 2026-11-07, game version 9.00)
-Author: M.R. Reese
-
-STATUS: ALPHA. Tested only briefly, on one save. Feedback welcome.
+Status: Finished
 
 THE PROBLEM
 Since game version 9.00 the SETA key (time acceleration) does nothing when you sit in
