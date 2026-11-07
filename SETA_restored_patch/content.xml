@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- ALPHA, tested only briefly with game version 9.00. Standalone, UI only (Lua): no scripts, no game files replaced.
+<!-- For game version 9.00. Standalone, UI only (Lua): no scripts, no game files replaced.
      Safe to add to and remove from a running save (save="false"). -->
-<content id="SETA_restored_patch" name="SETA restored patch (ALPHA)" description="ALPHA, only briefly tested (game 9.00). Since 9.00 the SETA key does nothing at the office chair or a weapons console. With this patch the SETA key works there again while the Dock / Ship Interactions menu is open. Pilot seat unchanged." author="M.R. Reese" version="1" date="2026-11-07" save="false">
-  <text language="44" name="SETA restored patch (ALPHA)" description="ALPHA, only briefly tested (game 9.00). Since 9.00 the SETA key does nothing at the office chair or a weapons console. With this patch the SETA key works there again while the Dock / Ship Interactions menu is open. Pilot seat unchanged."/>
-  <text language="49" name="SETA restored patch (ALPHA)" description="ALPHA, nur kurz getestet (Spiel 9.00). Seit 9.00 tut die SETA-Taste am Bürostuhl und an der Waffenkonsole nichts. Mit diesem Patch funktioniert sie dort wieder, solange das Menü Dock- / Schiffsinteraktionen offen ist. Pilotensitz unverändert."/>
+<content id="SETA_restored_patch" name="SETA restored patch" description="For game 9.00. Since 9.00 the SETA key does nothing at the office chair or a weapons console. With this patch the SETA key works there again while the Dock / Ship Interactions menu, the Empire Overview or the map is open. Pilot seat unchanged." author="M.R. Reese" version="100" date="2026-11-08" save="false">
+  <text language="44" name="SETA restored patch" description="For game 9.00. Since 9.00 the SETA key does nothing at the office chair or a weapons console. With this patch the SETA key works there again while the Dock / Ship Interactions menu, the Empire Overview or the map is open. Pilot seat unchanged."/>
+  <text language="49" name="SETA restored patch" description="Für Spiel 9.00. Seit 9.00 tut die SETA-Taste am Bürostuhl und an der Waffenkonsole nichts. Mit diesem Patch funktioniert sie dort wieder, solange das Menü Dock- / Schiffsinteraktionen, die Imperiumsübersicht oder die Karte offen ist. Pilotensitz unverändert."/>
 </content>
