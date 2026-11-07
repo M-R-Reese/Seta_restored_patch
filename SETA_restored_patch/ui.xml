@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Lua for SETA_restored_patch: SETA key while the Dock / Ship Interactions menu is open, see the file. -->
+<addon name="SETA_restored_patch">
+  <environment type="menus">
+    <file name="ui/seta_restored_patch.lua"/>
+    <!-- load after the Dock / Ship Interactions menu exists -->
+    <dependency name="ego_detailmonitor"/>
+  </environment>
+</addon>
